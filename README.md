@@ -1,2 +1,4 @@
-# bp_dumper
-An android debugger for setting breakpoint and dumping memory powered by frida
+pen-tool:
+firmwalk/basefind/sibyl/u-boot-tools/miasm
+flare-ida is a pen-tool collection
+flair-68.rar
